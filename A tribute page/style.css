@@ -1,0 +1,68 @@
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+background-color:lightcyan;
+}
+
+/* .title{ */
+     /* background-color:red; */
+     /* height:110px; */
+     /* width:auto; */
+/* } */
+h1{
+    background-color:darkblue;
+    padding:5px;
+    justify-content: center;
+   align-items: center;
+   display: flex;
+   font-size: 50px;
+   font-style: oblique;
+   color: aqua;
+   overflow: inherit;
+}
+
+img{
+background-color:darkblue;
+padding:5px;
+margin: 20px;
+align-items: center;
+display: flex;
+margin-left: auto;
+margin-right: auto;
+width: 30%;
+}
+/*  */
+/* h2{ */
+    /* color: black; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* display: flex; */
+    /* margin: 30px; */
+/*  */
+/* } */
+.about{
+     margin: 100px;
+     height: 1000px;
+     width:800px;
+     background-color:darkblue;
+     align-items: center;
+     justify-content: center;
+     display:flex;
+     margin-left: auto;
+     margin-right: auto;
+     box-shadow: 10px 10px 10px rebeccapurple;
+
+
+
+}
+
+.footer{
+     height: 50px;
+     width: 100%;
+     background-color: black;
+     color: aliceblue;
+     justify-content: center;
+     align-items: center;
+     display: flex;
+}
